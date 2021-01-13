@@ -9,7 +9,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "org.geysermc.app.android"
+        applicationId "org.testing.app.android"
         minSdkVersion 24
         targetSdkVersion 29
         versionCode 102004 // Format 00.00.000    EG 1.0.1 -> 01.00.001 -> 0100001 -> 100001
